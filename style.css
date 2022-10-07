@@ -6,7 +6,57 @@ header{
 bockgrond-color:#FE0000
 }
 footer{
-backgraund-color:#FAFF00
+backgraund-color:#FAFF00;
 h1 {
 color :#0300FF;
+}<li class="itens">
+body{
 }
+#banner{  
+ width:100% 
+  } 
+.principal{
+   background:#FAFF00;
+  padding:30px;
+  }
+.titulo-centralizado{
+ text-align:center 
+  }
+  p{
+   texr-align:center;
+  }
+  #missao{
+      font-size:20px
+  }
+  em strong{
+      color:#0300FF;
+  }
+  
+  .itens{
+     font-style:italic
+  }
+  .beneficios{
+       background:FAFF00; 
+       padding:20px;
+  }
+  ul{
+  display:inline-block;
+  vertical-align:top
+  width:20%
+  margin-right:15%;
+  }
+  .imagembeneficios{
+       width:50%
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
